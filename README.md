@@ -1,2 +1,2 @@
-# wordle-python
-This is an Python version of Wordle.
+# Wordle
+This is a Python version of Wordle.
